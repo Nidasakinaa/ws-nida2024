@@ -3,13 +3,12 @@ package main
 import (
 	"log"
 
-	"iteung/config"
+	"github.com/Nidasakinaa/ws-nida2024/config"
 
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 
-
-	"iteung/url"
+	"github.com/Nidasakinaa/ws-nida2024/url"
 
 	"github.com/gofiber/fiber/v2"
 )

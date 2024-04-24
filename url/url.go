@@ -1,7 +1,7 @@
 package url
 
 import (
-	"iteung/controller"
+	"github.com/Nidasakinaa/ws-nida2024/controller"
 
 	"github.com/gofiber/fiber/v2"
 )
