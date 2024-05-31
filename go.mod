@@ -3,6 +3,7 @@ module github.com/Nidasakinaa/ws-nida2024
 go 1.22.1
 
 require (
+	github.com/Nidasakinaa/TryPackage v0.0.4
 	github.com/aiteung/atdb v0.1.7
 	github.com/aiteung/musik v0.0.5
 	github.com/gofiber/fiber/v2 v2.52.4
