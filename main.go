@@ -22,7 +22,7 @@ import (
 // @contact.url https://github.com/Nidasakinaa
 // @contact.email 714220040@std.ulbi.ac.id
 
-// @host  https://ws-nida2024-72645f997179.herokuapp.com
+// @host  ws-nida2024-72645f997179.herokuapp.com
 // @BasePath /
 // @schemes https http
 
