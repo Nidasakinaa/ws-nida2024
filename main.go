@@ -10,8 +10,21 @@ import (
 
 	"github.com/Nidasakinaa/ws-nida2024/url"
 
+	_ "github.com/Nidasakinaa/ws-nida2024/docs"
 	"github.com/gofiber/fiber/v2"
 )
+
+// @title TES SWAGGER ULBI
+// @version 1.0
+// @description This is a sample swagger for Fiber
+
+// @contact.name API Support
+// @contact.url https://github.com/Nidasakinaa
+// @contact.email 714220040@std.ulbi.ac.id
+
+// @host  https://ws-nida2024-72645f997179.herokuapp.com
+// @BasePath /
+// @schemes https http
 
 func main() {
 	site := fiber.New(config.Iteung)
